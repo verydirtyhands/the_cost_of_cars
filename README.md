@@ -11,15 +11,17 @@
 - время обучения.
 
 ## Инструменты:
-`Pandas`
-`sklearn`
-`seaborn`
-`matplotlib`
-`category_encoders`
-`keras`
-`numpy`
-`Shap`
-`CatBoost`
+`Python==3.9.16`
+`Pandas==1.5.3`
+`sklearn==1.2.2`
+`seaborn==0.12.2`
+`matplotlib==3.6.3`
+`category_encoders==2.6.1`
+`keras==2.12`
+`numpy==1.23.5`
+`Shap==0.42.0`
+`CatBoost==1.2`
+`ydata-profiling==4.1.2`
 
 ## Описание данных:
 
