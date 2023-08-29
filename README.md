@@ -58,5 +58,5 @@
 
  ---
  
-#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/taxi_counter/blob/main/p10f.ipynb'>Модель для определение стоимости автомобилей
+#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/the_cost_of_cars/blob/main/p10f.ipynb'>Модель для определение стоимости автомобилей
 </a>
